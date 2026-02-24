@@ -1,0 +1,5 @@
+homepage: "https://www.linkedin.com/in/sadikulshadin/"
+documentation: "https://github.com/trackingwithshadin/gtm-bd-gender-detector"
+versions:
+  - sha: "main"
+    changeNotes: "Initial release of BD Gender Detector template."
